@@ -83,7 +83,7 @@
                 </div>
                 <p class="text-center mt-3">
                     <a href="https://en.wikipedia.org/wiki/Open_source" target="_blank">♥ Open Source</a>
-                    <a href="#" target="_blank"> | GitHub</a>
+                    <a href="https://github.com/samadha56/smmap" target="_blank"> | GitHub</a>
                 </p>
             </div>
         </div>

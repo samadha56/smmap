@@ -28,7 +28,7 @@
                     <p class="card-text">
                         <strong>Convert Data to Earth Map</strong> <br>
                         Anyone can download this project for free and open source through GitHub
-                        <br> GitHub: <a class="text-white" href="#">SMmap Project</a> |
+                        <br> GitHub: <a class="text-white" href="https://github.com/samadha56/smmap">SMmap Project</a> |
                         Email: <a class="text-white" href="mailto:samadha56@gmail.com">samadha56@gmail.com</a>
                     </p>
                 </div>
